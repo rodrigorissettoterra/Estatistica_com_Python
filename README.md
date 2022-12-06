@@ -1,4 +1,4 @@
-#ESTATÍSTICA DESCRITIVA COM PYTHON
+ESTATÍSTICA DESCRITIVA COM PYTHON
 <ul>
  	<li>Variáveis utilizadas</li>
  	<li>Observação</li>
