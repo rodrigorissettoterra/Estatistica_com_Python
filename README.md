@@ -55,4 +55,20 @@ ESTATÍSTICA: TESTE DE HIPÓTESES COM PYTHON
 </li>
 </ul>
 </li>
+ 	<li>Renda de SP com RJ
+<ul>
+ 	<li>Selecionando 2 amostras de 500 respondentes de cada estado</li>
+ 	<li>Média e Desvio padrão das duas amostras</li>
+ 	<li>Definindo valores para os testes</li>
+ 	<li>Teste de hipótese
+<ul>
+ 	<li>Fixação da significância do teste (α)</li>
+</ul>
+</li>
+ 	<li>Cálculo da estatística-teste e verificação desse valor com as áreas de aceitação / rejeição do teste</li>
+ 	<li>Aceitação / Rejeição de H0</li>
+ 	<li>Valor p</li>
+</ul>
+</li>
+ 	<li>Conclusão</li>
 </ul>
