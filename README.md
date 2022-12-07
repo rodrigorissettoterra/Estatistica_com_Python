@@ -22,7 +22,7 @@ ESTATÍSTICA: FREQUÊNCIA E MEDIDAS
 </li>
  	<li>Informações estatísticas</li>
 </ul>
-
+</br></br>
 ESTATÍSTICA: TESTE DE HIPÓTESES COM PYTHON
 <ul>
  	<li>Variáveis utilizadas</li>
