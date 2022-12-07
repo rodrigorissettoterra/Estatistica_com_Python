@@ -1,4 +1,4 @@
-ESTATÍSTICA DESCRITIVA COM PYTHON
+ESTATÍSTICA: FREQUÊNCIA E MEDIDAS
 <ul>
  	<li>Variáveis utilizadas</li>
  	<li>Observação</li>
@@ -21,4 +21,38 @@ ESTATÍSTICA DESCRITIVA COM PYTHON
 </ul>
 </li>
  	<li>Informações estatísticas</li>
+</ul>
+
+ESTATÍSTICA: TESTE DE HIPÓTESES COM PYTHON
+<ul>
+ 	<li>Variáveis utilizadas</li>
+ 	<li>Observação sobre a base de dados</li>
+ 	<li>Preparando o ambiente
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Carregando a base de dados</li>
+ 	<li>Informações sobre a base de dados</li>
+ 	<li>Dados faltantes</li>
+ 	<li>Dados nulos</li>
+</ul>
+</li>
+ 	<li>Teste de hipóteses
+<ul>
+ 	<li>Teste de normalidade
+<ul>
+ 	<li>Definindo a significância do teste (α)</li>
+ 	<li>Testando a variável Renda
+<ul>
+ 	<li>Critério do valor p - Renda</li>
+</ul>
+</li>
+ 	<li>Testando a variável Altura
+<ul>
+ 	<li>Critério do valor p - Altura</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
